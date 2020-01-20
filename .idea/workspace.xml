@@ -24,11 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251f9faf-347f-4f2c-92ad-7c28a9bbee77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/todo/HelloWorldService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +114,7 @@
       <workItem from="1576226026907" duration="1205000" />
       <workItem from="1576461941754" duration="573000" />
       <workItem from="1576645723341" duration="2139000" />
-      <workItem from="1579491194951" duration="553000" />
+      <workItem from="1579491194951" duration="801000" />
     </task>
     <servers />
   </component>

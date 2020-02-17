@@ -62,9 +62,9 @@ class LoginComponent extends Component {
         return (
             <div>
                 {/*<ShowInvalidCredentials hasLoginFailed={this.state.hasLoginFailed} />*/}
+                {/*<ShowLoginSuccess showSuccessMessage={this.state.showSuccessMessage}/>*/}
                 {this.state.hasLoginFailed && <div>Invalid Credentials</div>}
                 {this.state.showSuccessMessage && <div>Login Successful</div>}
-                {/*<ShowLoginSuccess showSuccessMessage={this.state.showSuccessMessage}/>*/}
                 UserName: <input type ="text"
                                  name="username"
                                  value={this.state.username}

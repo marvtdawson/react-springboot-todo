@@ -24,7 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251f9faf-347f-4f2c-92ad-7c28a9bbee77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ReactProjects/react16/in28minutes/counterapplication" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -114,7 +116,9 @@
       <workItem from="1576226026907" duration="1205000" />
       <workItem from="1576461941754" duration="573000" />
       <workItem from="1576645723341" duration="2139000" />
-      <workItem from="1579491194951" duration="801000" />
+      <workItem from="1579491194951" duration="1438000" />
+      <workItem from="1579501367360" duration="165000" />
+      <workItem from="1581915372265" duration="2706000" />
     </task>
     <servers />
   </component>
@@ -143,10 +147,10 @@
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="264" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1577064180709" />
-    <state x="588" y="207" key="FileChooserDialogImpl" timestamp="1577934843755">
+    <state x="588" y="207" key="FileChooserDialogImpl" timestamp="1581917199520">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
-    <state x="588" y="207" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1577934843755" />
+    <state x="588" y="207" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1581917199520" />
     <state width="1554" height="283" key="GridCell.Tab.0.bottom" timestamp="1577934885689">
       <screen x="0" y="24" width="1600" height="876" />
     </state>

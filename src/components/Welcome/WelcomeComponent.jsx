@@ -4,7 +4,7 @@ class WelcomeComponent extends Component {
 
     render() {
         return (
-        <div>Welcome Marvin</div>
+        <div>Welcome {this.props.match.params.name}</div>
         )
     }
 }

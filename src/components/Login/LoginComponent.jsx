@@ -61,8 +61,10 @@ class LoginComponent extends Component {
     render() {
         return (
             <div>
-                <ShowInvalidCredentials hasLoginFailed={this.state.hasLoginFailed} />
-                <ShowLoginSuccess showSuccessMessage={this.state.showSuccessMessage}/>
+                {/*<ShowInvalidCredentials hasLoginFailed={this.state.hasLoginFailed} />*/}
+                {this.state.hasLoginFailed && <div>Invalid Credentials</div>}
+                {this.state.showSuccessMessage && <div>Login Successful</div>}
+                {/*<ShowLoginSuccess showSuccessMessage={this.state.showSuccessMessage}/>*/}
                 UserName: <input type ="text"
                                  name="username"
                                  value={this.state.username}
@@ -77,17 +79,17 @@ class LoginComponent extends Component {
     }
 }
 
-function ShowInvalidCredentials(props) {
-    if(props.hasLoginFailed) {
-        return <div>Invalid Credentials</div>
-    }
-    return null
-}
-function ShowLoginSuccess(props) {
-    if(props.showSuccessMessage) {
-        return <div>Login Successful</div>
-    }
-    return null
-}
+// function ShowInvalidCredentials(props) {
+//     if(props.hasLoginFailed) {
+//         return <div>Invalid Credentials</div>
+//     }
+//     return null
+// }
+// function ShowLoginSuccess(props) {
+//     if(props.showSuccessMessage) {
+//         return <div>Login Successful</div>
+//     }
+//     return null
+// }
 
 export default LoginComponent

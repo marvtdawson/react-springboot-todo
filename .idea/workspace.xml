@@ -24,11 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251f9faf-347f-4f2c-92ad-7c28a9bbee77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/LoginComponent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/LoginComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/LoginComponent.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Todo" />
+      <recent name="$PROJECT_DIR$/src/components/Login" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">

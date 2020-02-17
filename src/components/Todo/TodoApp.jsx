@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import LoginComponent from '../Login/LoginComponent';
+import WelcomeComponent from "../Welcome/WelcomeComponent";
 
 
 class TodoApp extends Component {
@@ -8,6 +9,7 @@ class TodoApp extends Component {
             <div className="TodoApp">
                 My Todo Application
                 <LoginComponent />
+                <WelcomeComponent />
             </div>
         );
     }

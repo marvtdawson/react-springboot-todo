@@ -24,9 +24,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251f9faf-347f-4f2c-92ad-7c28a9bbee77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/TodoApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginComponent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoApp.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -147,6 +150,10 @@
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state x="264" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1577064180709" />
+    <state x="475" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581918377697">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="475" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1581918377697" />
     <state x="588" y="207" key="FileChooserDialogImpl" timestamp="1581917199520">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
@@ -215,6 +222,10 @@
       <screen x="0" y="24" width="1600" height="876" />
     </state>
     <state width="1554" height="283" key="GridCell.Tab.3.right/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1577934885696" />
+    <state x="294" y="84" key="SettingsEditor" timestamp="1581918437388">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="294" y="84" key="SettingsEditor/0.24.1600.876/1600.0.1600.900@0.24.1600.876" timestamp="1581918437388" />
     <state x="114" y="50" key="new project wizard" timestamp="1577934865495">
       <screen x="0" y="24" width="1600" height="876" />
     </state>
